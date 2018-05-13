@@ -7,7 +7,7 @@ public class ThirdProgram {
 		
 		System.out.println("Second Program");
 		
-		
+		System.out.println("Welcome to auto run program");
 		
 	}
 
